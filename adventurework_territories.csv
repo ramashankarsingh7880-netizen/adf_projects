@@ -1,0 +1,11 @@
+SalesTerritoryKey,Region,Country,Continent,SalesGroup,SalesManager
+1,Northwest,USA,North America,NA-West,Robert King
+2,Northeast,USA,North America,NA-East,Emily Carter
+3,Southwest,USA,North America,NA-SouthWest,Daniel Scott
+4,Southeast,USA,North America,NA-SouthEast,Sophia Walker
+5,Central,USA,North America,NA-Central,Michael Harris
+6,Canada,Canada,North America,NA-Canada,Jessica Brown
+7,France,France,Europe,EU-West,Jean Martin
+8,Germany,Germany,Europe,EU-Central,Anna Fischer
+9,United Kingdom,UK,Europe,EU-North,James Wilson
+10,Australia,Australia,Oceania,APAC,Olivia Taylor
