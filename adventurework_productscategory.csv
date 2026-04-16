@@ -1,0 +1,13 @@
+ProductSubcategoryKey,ProductCategoryKey,SubcategoryName,Description
+101,1,Mountain Bikes,Off-road bicycles
+102,1,Road Bikes,High-speed road bicycles
+103,1,Touring Bikes,Long-distance travel bicycles
+201,2,Chains,Bike chain components
+202,2,Brakes,Brake system parts
+203,2,Wheels,Wheel assemblies
+301,3,Jerseys,Cycling jerseys
+302,3,Gloves,Cycling gloves
+303,3,Shorts,Cycling shorts
+401,4,Helmets,Safety helmets
+402,4,Bottles,Water bottles
+403,4,Pumps,Air pumps

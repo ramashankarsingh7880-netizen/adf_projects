@@ -1,0 +1,5 @@
+ProductCategoryKey,CategoryName,Description
+1,Bikes,Bicycles and cycling equipment
+2,Components,Bike mechanical components
+3,Clothing,Cycling apparel
+4,Accessories,Bike accessories

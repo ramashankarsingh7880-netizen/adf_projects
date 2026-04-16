@@ -1,0 +1,15 @@
+ProductKey,ProductName,ProductSubcategoryKey,Color,Size,StandardCost,ListPrice,Weight,ModelName,SellStartDate
+1001,Mountain Bike 100,101,Red,M,500,850,14.5,Mountain-100,2024-01-10
+1002,Mountain Bike 200,101,Black,L,650,1050,15.0,Mountain-200,2024-01-15
+1003,Road Bike 100,102,Blue,M,700,1200,12.2,Road-100,2024-01-20
+1004,Road Bike 200,102,White,L,850,1450,11.8,Road-200,2024-01-25
+1005,Touring Bike 100,103,Gray,M,600,950,13.6,Touring-100,2024-02-01
+1006,Chain Set Pro,201,Silver,NA,40,85,1.2,Chain-Pro,2024-02-10
+1007,Brake Pads Standard,202,Black,NA,8,18,0.2,Brake-STD,2024-02-12
+1008,Wheel Assembly Front,203,Silver,NA,55,120,2.4,Wheel-F,2024-02-15
+1009,Cycling Jersey Premium,301,Blue,L,20,55,0.4,Jersey-Premium,2024-03-01
+1010,Cycling Gloves Pro,302,Black,S,10,25,0.3,Gloves-Pro,2024-03-05
+1011,Cycling Shorts Elite,303,Black,M,18,45,0.5,Shorts-Elite,2024-03-08
+1012,Helmet Sport,401,White,M,25,60,0.8,Helmet-Sport,2024-03-12
+1013,Water Bottle 500ml,402,Transparent,NA,3,10,0.5,Bottle-500,2024-03-15
+1014,Bike Pump Manual,403,Black,NA,12,30,1.0,Pump-Manual,2024-03-18
