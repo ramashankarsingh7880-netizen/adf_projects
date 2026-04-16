@@ -1,0 +1,21 @@
+CustomerKey,FirstName,LastName,Gender,EmailAddress,Phone,DateFirstPurchase,City,StateProvince,CountryRegion,YearlyIncome,TotalChildren,Education,Occupation,MaritalStatus,HouseOwnerFlag
+10001,John,Smith,M,john.smith1@email.com,9876543210,2023-01-15,Seattle,Washington,USA,65000,2,Bachelors,Professional,M,1
+10002,Sarah,Johnson,F,sarah.johnson2@email.com,9876543211,2023-02-10,Dallas,Texas,USA,72000,1,Graduate,Management,S,0
+10003,Michael,Williams,M,michael.williams3@email.com,9876543212,2023-03-05,Chicago,Illinois,USA,81000,3,Bachelors,Skilled Manual,M,1
+10004,Emily,Brown,F,emily.brown4@email.com,9876543213,2023-03-18,New York,New York,USA,92000,0,Graduate,Professional,S,0
+10005,David,Jones,M,david.jones5@email.com,9876543214,2023-04-22,Los Angeles,California,USA,58000,2,Partial College,Clerical,M,1
+10006,Jessica,Miller,F,jessica.miller6@email.com,9876543215,2023-05-12,Phoenix,Arizona,USA,77000,1,Bachelors,Management,M,1
+10007,Daniel,Davis,M,daniel.davis7@email.com,9876543216,2023-06-01,Houston,Texas,USA,68000,2,High School,Manual,S,0
+10008,Ashley,Garcia,F,ashley.garcia8@email.com,9876543217,2023-06-15,Miami,Florida,USA,83000,1,Graduate,Professional,M,1
+10009,Matthew,Martinez,M,matthew.martinez9@email.com,9876543218,2023-07-07,Denver,Colorado,USA,91000,0,Bachelors,Management,S,0
+10010,Olivia,Anderson,F,olivia.anderson10@email.com,9876543219,2023-07-25,Boston,Massachusetts,USA,74000,2,Graduate,Professional,M,1
+10011,James,Taylor,M,james.taylor11@email.com,9876543220,2023-08-10,Atlanta,Georgia,USA,69000,1,Partial College,Skilled Manual,S,0
+10012,Sophia,Thomas,F,sophia.thomas12@email.com,9876543221,2023-08-22,Portland,Oregon,USA,88000,2,Bachelors,Management,M,1
+10013,Benjamin,Hernandez,M,ben.hernandez13@email.com,9876543222,2023-09-05,San Diego,California,USA,95000,3,Graduate,Professional,M,1
+10014,Isabella,Moore,F,isabella.moore14@email.com,9876543223,2023-09-18,Charlotte,North Carolina,USA,72000,1,Bachelors,Clerical,S,0
+10015,Lucas,Martin,M,lucas.martin15@email.com,9876543224,2023-10-02,Austin,Texas,USA,85000,2,Graduate,Management,M,1
+10016,Mia,Jackson,F,mia.jackson16@email.com,9876543225,2023-10-15,Nashville,Tennessee,USA,67000,0,Partial College,Professional,S,0
+10017,Henry,White,M,henry.white17@email.com,9876543226,2023-11-01,Detroit,Michigan,USA,79000,1,Bachelors,Skilled Manual,M,1
+10018,Amelia,Harris,F,amelia.harris18@email.com,9876543227,2023-11-18,Las Vegas,Nevada,USA,99000,2,Graduate,Management,M,1
+10019,Alexander,Clark,M,alex.clark19@email.com,9876543228,2023-12-01,Orlando,Florida,USA,61000,3,High School,Manual,M,0
+10020,Evelyn,Lewis,F,evelyn.lewis20@email.com,9876543229,2023-12-15,San Jose,California,USA,93000,1,Graduate,Professional,S,1
