@@ -1,0 +1,26 @@
+acid,name,address,brid,pid,doo,cbalance,ubalance,status
+101,chote singh,ara bihar(802209),br1,sb,2023-06-10,21000,3500,o
+102,bade singh,ludhiyana punjab(802290),br2,fd,2023-06-11,1500,1100,o
+103,sunil singh,ahamdabad gujrat(804209),br3,rd,2023-06-12,1212,1200,o
+104,awadhesh singh,bombay maharastra(842209),br4,la,2023-06-13,1500,1300,o
+105,bhagwat singh,patna bihar(882209),br5,sb,2023-06-14,111,1400,o
+106,rudraksh singh,motha bihar(802409),br6,sb,2023-06-15,1500,1500,o
+107,navdeep kumar,koshdihara bihar(802209),br7,sb,2023-06-16,15841,00,o
+108,baby singh,sukan sky gujrat(802709),br8,sb,2023-06-17,1700,1700,o
+109,reeya singh,motha bihar(802509),br9,sb,2023-06-18,1800,1800,o
+110,shalu singh,tata bihar(802109),br10,sb,2023-06-19,1900,1900,o
+111,choti, sivan bihar(892209),br1,sb,2023-06-20,2000,2000,I
+112,chote singh,ara bihar(802209),br1,sb,2023-06-10,1000,1000,I
+113,bade singh,ludhiyana punjab(802290),br2,fd,2023-06-11,1100,1100,c
+114s,sunil singh,ahamdabad gujrat(804209),br3,rd,2023-06-12,1200,1200,I
+115,awadhesh singh,bombay maharastra(842209),br4,la,2023-06-13,1300,1300,c
+116,bhagwat singh,patna bihar(882209),br5,sb,2023-06-14,1100,1400,c
+117,rudraksh singh,motha bihar(802409),br6,sb,2023-06-06,1500,15000,o
+118,asha singh,koshdihara bihar(802209),br7,sb,2023-06-16,1600,1600,I
+119,baby singh,sukan sky gujrat(802709),br8,sb,2023-06-17,1700,1700,I
+120,reeya singh,motha bihar(802509),br9,sb,2023-06-18,1800,1800,I
+121,shalu singh,tata bihar(802109),br10,sb,2023-06-19,1900,1900,I
+122,choti singh,narayanpur bihar(892209),br1,sb,2023-06-20,2000,2000,I
+123,chote singh,ara bihar(802209),br1,sb,2023-06-10,1000,00,c
+124,bade singh,ludhiyana punjab(802290),br1, fd,2023-06-11,1100,NULL,I
+125,sunil singh,ahamdabad gujrat(804209),br3,rd,2012-05-01,1000,1200,o
